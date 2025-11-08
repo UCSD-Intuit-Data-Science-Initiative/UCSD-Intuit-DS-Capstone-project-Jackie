@@ -60,3 +60,7 @@ docs/_site/
 # OS files
 .DS_Store
 Thumbs.db
+
+# REAMDE
+README_INTUIT.md
+README_TA.md
